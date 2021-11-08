@@ -1,0 +1,5 @@
+﻿  UnitTest2.cpp
+D:\User_data\Desktop\Оценка сложности алгоритмов\Lab 2\Lab 2\Lab 2.cpp(124,16): warning C4267: '=': conversion from 'size_t' to 'unsigned char', possible loss of data
+D:\User_data\Desktop\Оценка сложности алгоритмов\Lab 2\Lab 2\Lab 2.cpp(135,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+     Creating library D:\User_data\Desktop\Оценка сложности алгоритмов\UnitTest2\Debug\UnitTest2.lib and object D:\User_data\Desktop\Оценка сложности алгоритмов\UnitTest2\Debug\UnitTest2.exp
+  UnitTest2.vcxproj -> D:\User_data\Desktop\Оценка сложности алгоритмов\UnitTest2\Debug\UnitTest2.dll

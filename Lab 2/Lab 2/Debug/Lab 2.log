@@ -1,0 +1,4 @@
+﻿  Lab 2.cpp
+D:\User_data\Desktop\Оценка сложности алгоритмов\Lab 2\Lab 2\Lab 2.cpp(119,16): warning C4267: '=': conversion from 'size_t' to 'unsigned char', possible loss of data
+D:\User_data\Desktop\Оценка сложности алгоритмов\Lab 2\Lab 2\Lab 2.cpp(130,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Lab 2.vcxproj -> D:\User_data\Desktop\Оценка сложности алгоритмов\UnitTest2\Debug\Lab 2.exe
